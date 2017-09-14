@@ -1,4 +1,4 @@
-package com.swastik.user;
+package com.spring.user;
 
 import java.util.List;
 

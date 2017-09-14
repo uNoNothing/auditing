@@ -1,4 +1,4 @@
-package com.swastik;
+package com.spring;
 
 import org.javers.spring.auditable.AuthorProvider;
 import org.springframework.beans.factory.annotation.Autowired;

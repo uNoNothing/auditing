@@ -1,4 +1,4 @@
-package com.swastik;
+package com.spring;
 
 import org.springframework.stereotype.Component;
 

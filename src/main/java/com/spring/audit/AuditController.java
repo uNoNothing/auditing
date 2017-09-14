@@ -1,4 +1,4 @@
-package com.swastik.audit;
+package com.spring.audit;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -14,7 +14,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.swastik.user.User;
+import com.spring.user.User;
 
 @RestController
 @RequestMapping(value = "/audit")

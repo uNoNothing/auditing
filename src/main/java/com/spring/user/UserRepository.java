@@ -1,4 +1,4 @@
-package com.swastik.user;
+package com.spring.user;
 
 import org.javers.spring.annotation.JaversSpringDataAuditable;
 import org.springframework.data.repository.CrudRepository;
